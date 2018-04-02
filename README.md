@@ -1,0 +1,2 @@
+# GeminiBot
+A Discord bot.
